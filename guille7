@@ -1,20 +1,40 @@
 #EXTM3U
-#EXTINF:-1 group-title="CULTURA",24 TV CULTURALES
-http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w450881441_b964000_sles.m3u8
+#EXTINF:-1 ,Portal FoxMix | HD
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
+#EXTINF:-1 ,NWCT 12 Minnesota
+http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
+#EXTINF:-1 ,Monte Maria {CA} (Mexico)
+http://162.212.176.51:1935/live/myStream/playlist.m3u8
+#EXTINF:-1 ,American Horrors
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+#EXTINF:-1 ,SafeTV4U2
+http://18.191.91.130:1935/live/safetv/playlist.m3u8
+#EXTINF:-1 ,Vega Baja TV
+http://185.29.68.24/tvb.m3u8
+#EXTINF:-1 ,El Garaje TV | SD
+http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
+#EXTINF:-1 ,Garage TV
+http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
+#EXTINF:-1 ,Microvision 10
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1468779956.m3u8
+#EXTINF:-1 ,Litus | HD
+http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
+#EXTINF:-1 ,CDM Int'l (Puerto Rico)
+http://205.164.56.130:1935/marcos536/marcos536/playlist.m3u8
+#EXTINF:-1 ,Alcarria TV
+http://217.182.77.27/live/alcarriatv-livestream.m3u8
+#EXTINF:-1 ,Alcarria TV
+http://217.182.77.27/live/alcarriatv-livestream.m3u8?fluxustv.m3u8
 #EXTINF:-1 ,30A TV
 http://30a-tv.com/my999.m3u8
-#EXTINF:-1 ,360 North
-http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlist.m3u8
-#EXTINF:-1 ,3ABN Latino (USA)
-http://uni5rtmp.tulix.tv:1935/bettervida/bettervida/playlist.m3u8
-#EXTINF:-1 group-title="MUSICA",90s Reloaded 2008)
-https://ia601503.us.archive.org/24/items/TheClassicProject1/The%20Classic%20Project%201.mp4
-#EXTINF:-1 group-title="MUSICA",90s)
-https://ia601500.us.archive.org/25/items/TheClassicProject4/The%20Classic%20Project%204.mp4
-#EXTINF:-1 group-title="MUSICA",90s)
-https://ia601503.us.archive.org/0/items/TheClassicProject9/The%20Classic%20Project%209.mp4
-#EXTINF:-1 group-title="NOTICIAS",ABC NEWS
-https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
+#EXTINF:-1 ,Darcizzle Offshore
+http://30a-tv.com/darcizzle.m3u8
+#EXTINF:-1 ,Sidewalks
+http://30a-tv.com/sidewalks.m3u8
+#EXTINF:-1 ,CN 24/7
+http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
+#EXTINF:-1 ,CN 24/7
+http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 ,ABC News (Opt-1)
 https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8
 #EXTINF:-1 ,Akaku 53 Hawaii
@@ -23,332 +43,46 @@ https://akaku.vod.castus.tv/live/ch1.m3u8
 https://akaku.vod.castus.tv/live/ch2.m3u8
 #EXTINF:-1 ,Akaku 55 Hawaii
 https://akaku.vod.castus.tv/live/ch3.m3u8
-#EXTINF:-1 ,AKC TV
-https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
-#EXTINF:-1 ,Alcarria TV
-http://217.182.77.27/live/alcarriatv-livestream.m3u8
-#EXTINF:-1 ,Alcarria TV
-http://217.182.77.27/live/alcarriatv-livestream.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="XXX Adultos",Allison Banks
-http://tube.paperstreetcash.com/12mins/exxxtrasmall/exxxtrasmall_allison_banks_12minute.mp4
-#EXTINF:-1 ,American Horrors
-http://170.178.189.66:1935/live/Stream1/playlist.m3u8
-#EXTINF:-1 ,Atlanta Channel
-http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
-#EXTINF:-1 group-title="MEXICO",Azteca 7
-http://aztkhlslive-i.akamaihd.net/hls/live/572724/az7/master.m3u8
-#EXTINF:-1 group-title="MEXICO",Azteca Uno
-http://aztkhlslive2-i.akamaihd.net/hls/live/629424/azuno/master.m3u8
-#EXTINF:-1 ,Beach TV - 30A
-http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
-#EXTINF:-1 ,Beach TV - Panama City
-http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
-#EXTINF:-1 ,Beach TV - Pawleys Island
-http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",BFM Sport
-http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/master.m3u8
-#EXTINF:-1 group-title="Latinos",BHTV
-http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
-#EXTINF:-1 ,BHtv (Opt-2)
-http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
-#EXTINF:-1 group-title="NOTICIAS",Bloomberg USA
-https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
-#EXTINF:-1 group-title="CINE",BLUE & Extreme
-http://45.126.83.51/session/3e1febe2-3036-11e9-883d-bae1b0227905/dr9445/h/h15/01.m3u8
-#EXTINF:-1 group-title="MUSICA",Bonus Project 11 (Dance remixes 3)
-https://ia601506.us.archive.org/5/items/BonusProject11/Bonus%20Project%2011.mp4
-#EXTINF:-1 group-title="MUSICA",Bonus Project 14 (Salsa Mix)
-https://ia601508.us.archive.org/26/items/BonusProject14/Bonus%20Project%2014.mp4
-#EXTINF:-1 group-title="MUSICA",Bonus Project 3 (Old skool)
-https://ia801507.us.archive.org/7/items/BonusProject3/Bonus%20Project%203.mp4
-#EXTINF:-1 group-title="MUSICA",Bonus Project 5 (Tropical mix)
-https://ia601504.us.archive.org/18/items/BonusProject5/Bonus%20Project%205.mp4
-#EXTINF:-1 group-title="MUSICA",Bonus Project 6 (Tropical mix 2)
-https://ia601500.us.archive.org/1/items/BonusProject6/Bonus%20Project%206.mp4
-#EXTINF:-1 group-title="MUSICA",Bonus Project 7 (Tropical mix 3)
-https://ia601500.us.archive.org/5/items/BonusProject7/Bonus%20Project%207.mp4
-#EXTINF:-1 group-title="MUSICA",Bonus Project 8 (Dance remixes 2)
-https://ia601506.us.archive.org/1/items/BonusProject8/Bonus%20Project%208.mp4
-#EXTINF:-1 group-title="MUSICA",Bonus Project 9 (Pop)
-https://ia601500.us.archive.org/28/items/BonusProject09/Bonus%20Project%2009.mp4
-#EXTINF:-1 ,Bowie TV
-http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
-#EXTINF:-1 ,Box Hits
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
-#EXTINF:-1 group-title="XXX Adultos",BRAZZERS
-http://live.redtraffic.xyz/bigtits.m3u8
-#EXTINF:-1 ,Buffalo TV
-http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
+#EXTINF:-1 ,CBN (USA)
+http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
 #EXTINF:-1 ,BUTV10 - Boston University
 http://butv10-livestream.bu.edu/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
-#EXTINF:-1 ,Campus TV
-http://st2.worldkast.com/8004/8004/chunklist_w1315793139.m3u8
-#EXTINF:-1 group-title="MEXICO",Canal 10 Chetumal
-http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-#EXTINF:-1 group-title="MEXICO",Canal 10 Chiapas
-https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/chunklist_w462891777.m3u8
-#EXTINF:-1 ,Canal 10 Rio Negro
-http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
-#EXTINF:-1 group-title="NOTICIAS",Canal 26
-http://200.115.193.177/live/26hd-720/.m3u8
-#EXTINF:-1 ,Canal 26 Buenos Aires (Opt-2)
-http://live-edge01.telecentro.net.ar:1935/live/26hd-720/livestream.m3u8
-#EXTINF:-1 group-title="MEXICO",Canal 4 Monclova
-http://162.241.190.126:1935/live/canal4/playlist.m3u8
-#EXTINF:-1 group-title="MEXICO",Canal 4.1
-https://5ca3e84a76d30.streamlock.net/tv4/smil:tv4.smil/chunklist_w481386766_b13128000_sleng.m3u8
-#EXTINF:-1 group-title="MEXICO",Canal 4.2
-https://5ca3e84a76d30.streamlock.net/tv42/smil:tv42.smil/chunklist_w1657506489_b13128000_sleng.m3u8
-#EXTINF:-1 group-title="Latinos",CANAL 52 Ticavision (Costa Rica)
-http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",Canal 9 Multivision
-http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
-#EXTINF:-1 group-title="NOTICIAS",Canal Judicial
-https://live.scjn.gob.mx/EVLiveSCJN/_definst_/mp4:YXWKLCDT/playlist.m3u8
+#EXTINF:-1 ,CBC News (VOD)
+http://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
+#EXTINF:-1 ,CBS News (Opt-1)
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1 ,BHtv (Opt-2)
+http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+#EXTINF:-1 ,Ovacion | SD
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:-1 ,CONtv (Opt-1)
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3u8
+#EXTINF:-1 ,Docurama
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
 #EXTINF:-1 ,Canal Parlamento
 http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8
 #EXTINF:-1 ,Canal Parlamento
 http://congresodirecto-f.akamaihd.net:80/i/congreso6_1@54665/master.m3u8
-#EXTINF:-1 group-title="Latinos",Canal Wow TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-#EXTINF:-1 ,CBC News (VOD)
-http://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
-#EXTINF:-1 ,CBN (USA)
-http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
-#EXTINF:-1 ,CBS News (Opt-1)
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-#EXTINF:-1 ,CC-TV Charlotte County
-http://granicusliveus3-a.akamaihd.net/charlotte/G0055_002/chunklist.m3u8
-#EXTINF:-1 ,CDM Int'l (Puerto Rico)
-http://205.164.56.130:1935/marcos536/marcos536/playlist.m3u8
-#EXTINF:-1 group-title="CINE",Celestial Movies
-http://210.210.155.35/session/31580704-c313-11e8-86db-c81f66f89318/qwr9ew/s/s33/01.m3u8
-#EXTINF:-1 ,Cerritos TV3
-http://granicusliveus4-a.akamaihd.net/cerritos/G0010_002/chunklist.m3u8
-#EXTINF:-1 ,CGTN
-http://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1 ,CGTN English (Opt-1)
-http://live.cgtn.com/500/prog_index.m3u8
-#EXTINF:-1 ,CGTN English (Opt-2)
-http://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 ,CGTV - City of Champaign
-http://reflect-live-champaign.cablecast.tv/live/CELL-296k-234p/CELL-296k-234p.m3u8
 #EXTINF:-1 ,Cheddar
 https://content.uplynk.com/channel/4ee18bd581dc4d3b90303e0cb9beeb0f.m3u8
-#EXTINF:-1 ,Cheddar Big News
-https://wowzaprod124-i.akamaihd.net/hls/live/505691/261805b7/playlist.m3u8
-#EXTINF:-1 group-title="XXX Adultos",Chichi Medina
-http://tube.paperstreetcash.com/8mins/exxxtrasmall/exxxtrasmall_chichi_medina_8minutes.mp4
-#EXTINF:-1 group-title="XXX Adultos",Chloe Foster
-http://tube.paperstreetcash.com/8mins/exxxtrasmall/exxxtrasmall_chloe_foster_8minutes.mp4
-#EXTINF:-1 group-title="CINE",Cinema World
-http://210.210.155.35/session/4c0d1c4a-3034-11e9-94bb-b59a8d9f4b5a/uq2663/h/h04/index2.m3u8
-#EXTINF:-1 group-title="CINE",Cinema World
-http://210.210.155.35/uq2663/h/h04/01.m3u8
-#EXTINF:-1 group-title="MUSICA",Classic Project 10 (Soundtrack)
-https://ia601506.us.archive.org/14/items/TheClassicProject10/The%20Classic%20Project%2010.mp4
-#EXTINF:-1 group-title="MUSICA",Classic Project 11 (Rock latino)
-https://ia601508.us.archive.org/21/items/TheClassicProject11/The%20Classic%20Project%2011.mp4
-#EXTINF:-1 group-title="MUSICA",Classic Project 12 (Onda disco)
-https://ia601507.us.archive.org/11/items/TheClassicProject12/The%20Classic%20Project%2012.mp4
-#EXTINF:-1 group-title="MUSICA",Classic Project 13 (Exitos en español)
-https://ia601503.us.archive.org/14/items/TheClassicProject13/The%20Classic%20Project%2013.mp4
-#EXTINF:-1 group-title="MUSICA",Classic Project 14-1 (Rock edition CD 1)
-https://ia601509.us.archive.org/16/items/TheClassicProject14.1/The%20Classic%20Project%2014.1.mp4
-#EXTINF:-1 group-title="MUSICA",Classic Project 14-2 (Rock edition CD 2)
-https://archive.org/download/TheClassicProject14.2/The%20Classic%20Project%2014.2.mp4
-#EXTINF:-1 group-title="MUSICA",Classic Project 2 (Pop eurodance 90s)
-https://ia601500.us.archive.org/26/items/TheClassicProject2/The%20Classic%20Project%202.mp4
-#EXTINF:-1 group-title="MUSICA",Classic Project 3 (Pop 2000-2004)
-https://ia601508.us.archive.org/32/items/TheClassicProject3/The%20Classic%20Project%203.mp4
-#EXTINF:-1 group-title="MUSICA",Classic Project 5 (Rock Pop 90s)
-https://ia801503.us.archive.org/20/items/TheClassicProject5/The%20Classic%20Project%205.mp4
-#EXTINF:-1 group-title="MUSICA",Classic Project 6 (Pop 2004-2006)
-https://ia601509.us.archive.org/8/items/TheClassicProject6/The%20Classic%20Project%206.mp4
-#EXTINF:-1 group-title="MUSICA",Classic Project 7 (Reggaeton)
-https://ia601509.us.archive.org/27/items/TheClassicProject7/The%20Classic%20Project%207.mp4
-#EXTINF:-1 group-title="MUSICA",Classic Project 8 (Español)
-https://ia601500.us.archive.org/11/items/TheClassicProject8/The%20Classic%20Project%208.mp4
-#EXTINF:-1 ,CN 24/7
-http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
-#EXTINF:-1 ,CN 24/7
-http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="NOTICIAS",CNN Turk
-http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
-#EXTINF:-1 ,Combat Go
-http://bcoveliveios-i.akamaihd.net/hls/live/632424/5725327446001_02/playlist.m3u8
-#EXTINF:-1 ,CONtv (Opt-1)
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3u8
-#EXTINF:-1 group-title="España",COSMO TV
-http://91.126.141.201:1935/live/smil:cosmoHD.smil/playlist.m3u8
-#EXTINF:-1 ,CPAC
-http://bcoveliveios-i.akamaihd.net/hls/live/248519/1242843915001_1/master.m3u8
-#EXTINF:-1 ,CPAC Francais
-http://bcoveliveios-i.akamaihd.net/hls/live/248520/1242843915001_2/master.m3u8
-#EXTINF:-1 group-title="NOTICIAS",C-SPAN
-https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8
-#EXTINF:-1 group-title="NOTICIAS",C-SPAN 2
-https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8
-#EXTINF:-1 group-title="NOTICIAS",C-SPAN 3
-https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8
-#EXTINF:-1 ,CT-N Live Stream 1
-http://video.ct-n.com/live/web1stream/chunklist_w1992415243_DVR.m3u8
-#EXTINF:-1 ,CT-N Live Stream 2
-http://video.ct-n.com/live/web2stream/chunklist_w1202315245_DVR.m3u8
-#EXTINF:-1 ,CT-N Streaming Media
-http://video.ct-n.com/live/ctnstream/chunklist_w1534354198_DVR.m3u8
-#EXTINF:-1 group-title="XXX Adultos",Dakota Skye
-http://tube.paperstreetcash.com/12mins/exxxtrasmall/exxxtrasmall_dakota_skye_12minute.mp4
-#EXTINF:-1 ,Dancestar TV
-https://vcndstv.teleosmedia.com/stream/dstv/dstv/seglist_720p.m3u8
-#EXTINF:-1 ,Darcizzle Offshore
-http://30a-tv.com/darcizzle.m3u8
-#EXTINF:-1 ,Daytona Beach TV
-http://oflash.dfw.swagit.com/live/daytonabeachfl/smil:std-4x3-1-a/chucklist.m3u8
-#EXTINF:-1 ,DC Council Channel
-http://video.oct.dc.gov/out/u/15_12.m3u8
-#EXTINF:-1 group-title="XXX Adultos",Demida
-http://tube.paperstreetcash.com/8mins/rubateen/rubateen_demida_8minutes.mp4
-#EXTINF:-1 ,Denver 8 TV
-http://granicusliveus8-a.akamaihd.net/denver/G0080_002/chunklist.m3u8
+#EXTINF:-1 ,Newsy
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
+#EXTINF:-1 ,FOROtv
+https://d2416wdkjdz9sf.cloudfront.net/forotv/forotvm.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,House of Representatives
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:HouseChannel_all/chucklist.m3u8
 #EXTINF:-1 ,Deutsche Welle
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
 #EXTINF:-1 ,Deutsche Welle Latino | SD
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
-#EXTINF:-1 ,District of Columbia Network
-http://video.oct.dc.gov/out/u/DCN.m3u8
-#EXTINF:-1 group-title="España",Divinity
-http://91.126.141.12:1935/live/smil:divinity.smil/playlist.m3u8
-#EXTINF:-1 ,DJING
-http://www.djing.com/tv/ibiza.m3u8
-#EXTINF:-1 group-title="España",DMAX España
-https://sbshdlu3-lh.akamaihd.net/i/sbshdlive_4@99403/master.m3u8
-#EXTINF:-1 ,Docurama
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
-#EXTINF:-1 group-title="XXX Adultos",Dusk
-http://live.redtraffic.xyz/milf.m3u8
-#EXTINF:-1 group-title="XXX Adultos",Dusya
-http://tube.paperstreetcash.com/12mins/rubateen/rubateen_dusya_12minute.mp4
 #EXTINF:-1 ,DW
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="NOTICIAS",DW Amerika
-http://dwstream3-lh.akamaihd.net:80/i/dwstream3_live@124409/index_5_av-p.m3u8
 #EXTINF:-1 ,DW English
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
-#EXTINF:-1 group-title="NOTICIAS",DW NEWS
-http://dwstream4-lh.akamaihd.net:80/i/dwstream4_live@131329/index_1_av-b.m3u8
-#EXTINF:-1 ,El Garaje TV | SD
-http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",Extrema TV(Costa Rica)
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",Extreme Sports
-http://b66dc3b9.kartoshkaka.ru/iptv/SXSTT8UD3QSBQH/144/index.m3u8
-#EXTINF:-1 group-title="España",FDF
-http://91.126.141.201:1935/live/smil:fdf.smil/playlist.m3u8
-#EXTINF:-1 ,FOROtv
-https://d2416wdkjdz9sf.cloudfront.net/forotv/forotvm.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,TV Galicia Europa
+http://europa-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 ,Fox News Talk Radio
 http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
-#EXTINF:-1 group-title="NOTICIAS",France 24
-http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:-1 group-title="NOTICIAS",France 24
-http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
-#EXTINF:-1 ,France 24 English (Opt-1)
-http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
-#EXTINF:-1 ,Garage TV
-http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
-#EXTINF:-1 ,Garland TV
-http://oflash-alt.dfw.swagit.com/live/garlandtx/smil:hd-16x9-1-a/chunklist.m3u8
-#EXTINF:-1 ,Glendale 11
-https://stream.swagit.com/live-edge/glendaleaz/smil:std-4x3-1-a/chunklist.m3u8
-#EXTINF:-1 ,Gracia TV
-http://v3.tustreaming.cl/graciatv/live1/index.m3u8
-#EXTINF:-1 ,Gracia TV (Chile)
-http://v3.tustreaming.cl:80/graciatv/live1/index.m3u8
-#EXTINF:-1 group-title="NOTICIAS",Hechos Tv
-http://37.187.7.106/hechostv/live.m3u8
-#EXTINF:-1 group-title="España",Historia
-http://184.173.181.2:1935/8062/8062/playlist.m3u8
-#EXTINF:-1 group-title="CINE",HITS
-http://45.126.83.51/session/b13eb8e6-3032-11e9-9e89-bcf9892f75ee/uq2663/h/h37/01.m3u8
-#EXTINF:-1 group-title="Latinos",HMTV 33
-http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/playlist.m3u8
-#EXTINF:-1 group-title="XXX Adultos",HOT
-http://live.redtraffic.xyz/blowjob.m3u8
-#EXTINF:-1 ,House of Representatives
-http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:HouseChannel_all/chucklist.m3u8
-#EXTINF:-1 group-title="XXX Adultos",HustlerXXX
-http://live.redtraffic.xyz/bigdick.m3u8
-#EXTINF:-1 ,Jewelry Television
-http://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8
-#EXTINF:-1 group-title="XXX Adultos",Juice
-http://live.redtraffic.xyz/bigass.m3u8
-#EXTINF:-1 group-title="CINE",K Plus
-http://210.210.155.35:80/session/0c338296-303c-11e9-bdab-b82a72d63267/uq2663/h/h08/index2.m3u8
-#EXTINF:-1 ,Key TV
-http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
-#EXTINF:-1 group-title="CINE",KIX
-http://210.210.155.35/session/b32c7bf2-c313-11e8-9362-c81f66f89318/uq2663/h/h07/02.m3u8
-#EXTINF:-1 group-title="MUSICA",La Mega Mundial
-http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
-#EXTINF:-1 ,Lake Havasu City 4
-https://granicusliveus3-a.akamaihd.net/lakehavasucity/G0643_002/chunklist.m3u8
-#EXTINF:-1 group-title="España",Lancelot TV
-http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
-#EXTINF:-1 group-title="CULTURA",Lifedesign
-http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/.m3u8
-#EXTINF:-1 ,Litus | HD
-http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
-#EXTINF:-1 group-title="CULTURA",London Live
-http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
-#EXTINF:-1 group-title="MUSICA",m2o TV
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 ,M2o Tv
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?
-#EXTINF:-1 ,M2O TV | SD
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&amp;rebase=on
-#EXTINF:-1 group-title="Latinos",MEGAVISION
-http://stream3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
-#EXTINF:-1 ,Microvision 10
-http://190.103.183.24:1935/live/MicroHD/chunklist_w1468779956.m3u8
-#EXTINF:-1 group-title="Latinos",MICROvision 10
-http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
-#EXTINF:-1 ,Mobcrush
-https://ott.mobcrush.com/hls/0/ott.m3u8
-#EXTINF:-1 ,Monte Maria {CA} (Mexico)
-http://162.212.176.51:1935/live/myStream/playlist.m3u8
-#EXTINF:-1 ,Monterrico TV
-http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
-#EXTINF:-1 group-title="España",Movistar CINEDOC&ROLL
-http://panel.procaja.me/live/dash.php?z=997&u=fJ6cjzc09m&s=8431889677&id=3850&t=live&f=ts
-#EXTINF:-1 group-title="España",Movistar Drama
-http://panel.procaja.me/live/dash.php?z=997&u=fJ6cjzc09m&s=8431889677&id=3801&t=live&f=ts
-#EXTINF:-1 group-title="España",Movistar Seriesmania
-http://panel.procaja.me/live/dash.php?z=997&u=fJ6cjzc09m&s=8431889677&id=3809&t=live&f=ts
-#EXTINF:-1 group-title="MUSICA",MTV LIVE
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-#EXTINF:-1 group-title="Latinos",Multimedios Costa Rica
-http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
-#EXTINF:-1 ,Mundo Mas
-http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
-#EXTINF:-1 ,MUSIC TOP
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8
-#EXTINF:-1 group-title="MUSICA",MusicTop
-http://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
-#EXTINF:-1 group-title="CINE",MY CINEMA
-http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
-#EXTINF:-1 group-title="CULTURA",NASA TV
-http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 ,Navarra TV
-http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8
-#EXTINF:-1 ,New Orleans TV
-http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
-#EXTINF:-1 ,Newsmax TV
-http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 ,Newsy
-https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
-#EXTINF:-1 ,NWCT 12 Minnesota
-http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
 #EXTINF:-1 ,Olelo Community Media 49
 http://granicusliveus12-a.akamaihd.net/olelo/G0125_009/chunklist.m3u8
 #EXTINF:-1 ,Olelo Community Media 53
@@ -357,30 +91,26 @@ http://granicusliveus12-a.akamaihd.net/olelo/G0125_011/chunklist.m3u8
 http://granicusliveus12-a.akamaihd.net/olelo/G0125_012/chunklist.m3u8
 #EXTINF:-1 ,Olelo Community Media 55
 http://granicusliveus12-a.akamaihd.net/olelo/G0125_013/chunklist.m3u8
-#EXTINF:-1 ,Onda TV 10
-http://ss6.domint.net:2052/otv_str/tv10/chunklist_w1442080980.m3u8
-#EXTINF:-1 ,Ovacion | SD
-http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-#EXTINF:-1 group-title="CINE",Panico
-http://170.178.189.66:1935/live/Stream1/.m3u8
-#EXTINF:-1 ,Pauta
-http://video-ply.pauta.cl/playlist/stream.m3u8?s=pauta-hd
-#EXTINF:-1 group-title="XXX Adultos",PenthouseX
-http://live.redtraffic.xyz/pornstar.m3u8
-#EXTINF:-1 group-title="DEPORTES",Pinguino TV
-http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
-#EXTINF:-1 group-title="XXX Adultos",PlayboyX Tv
-http://live.redtraffic.xyz/latina.m3u8
-#EXTINF:-1 group-title="CINE",Pop
-https://bcsecurelivehls-i.akamaihd.net/hls/live/505785/5367332899001/master.m3u8
-#EXTINF:-1 group-title="MUSICA",PORTAL FOXMIX
-http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
-#EXTINF:-1 ,Portal FoxMix | HD
-http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
-#EXTINF:-1 group-title="XXX Adultos",PrivateX
-http://live.redtraffic.xyz/cuckold.m3u8
-#EXTINF:-1 group-title="CINE",Puñal Tv
-http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
+#EXTINF:-1 ,Bowie TV
+http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
+#EXTINF:-1 ,CC-TV Charlotte County
+http://granicusliveus3-a.akamaihd.net/charlotte/G0055_002/chunklist.m3u8
+#EXTINF:-1 ,Lake Havasu City 4
+https://granicusliveus3-a.akamaihd.net/lakehavasucity/G0643_002/chunklist.m3u8
+#EXTINF:-1 ,Cerritos TV3
+http://granicusliveus4-a.akamaihd.net/cerritos/G0010_002/chunklist.m3u8
+#EXTINF:-1 ,Denver 8 TV
+http://granicusliveus8-a.akamaihd.net/denver/G0080_002/chunklist.m3u8
+#EXTINF:-1 ,TVG Xabarin
+http://infantil-crtvg.flumotion.com/chunks.m3u8
+#EXTINF:-1 ,TV Senado | HD
+http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd
+#EXTINF:-1 ,Telesur
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+#EXTINF:-1 ,CGTN English (Opt-1)
+http://live.cgtn.com/500/prog_index.m3u8
+#EXTINF:-1 ,CGTN English (Opt-2)
+http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 ,QVC
 http://live.qvcuk.simplestreamcdn.com/live/qvcuk_main_clean/bitrate1.isml/live.m3u8
 #EXTINF:-1 ,QVC Beauty
@@ -389,147 +119,361 @@ http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/live
 http://live.qvcuk.simplestreamcdn.com/live/qvcuk_extra_clean/bitrate1.isml/live.m3u8
 #EXTINF:-1 ,QVC Style
 http://live.qvcuk.simplestreamcdn.com/live/qvcuk_style_clean/bitrate1.isml/live.m3u8
+#EXTINF:-1 ,MUSIC TOP
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8
+#EXTINF:-1 ,Canal 26 Buenos Aires (Opt-2)
+http://live-edge01.telecentro.net.ar:1935/live/26hd-720/livestream.m3u8
+#EXTINF:-1 ,CGTN
+http://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 ,QVC UK +1
 http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/live.m3u8
+#EXTINF:-1 ,M2o Tv
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?
+#EXTINF:-1 ,M2O TV | SD
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&amp;rebase=on
+#EXTINF:-1 ,TVN Señal de Pruebas | HD
+http://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
 #EXTINF:-1 ,Radio TV Neuquen
 http://media.neuquen.gov.ar/rtn/television/chunklist_w1330236482.m3u8
-#EXTINF:-1 ,RCG 3 | SD
-http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
-#EXTINF:-1 group-title="MEXICO",RCG TV2
-http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
-#EXTINF:-1 ,Red ADVenir (Bolivia)
-http://streamer1.streamhost.org:1935/salive/GMIredadvenirh/playlist.m3u8
+#EXTINF:-1 ,Atlanta Channel
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
+#EXTINF:-1 ,Beach TV - 30A
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+#EXTINF:-1 ,Beach TV - Panama City
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
+#EXTINF:-1 ,Beach TV - Pawleys Island
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+#EXTINF:-1 ,Key TV
+http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
+#EXTINF:-1 ,New Orleans TV
+http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
+#EXTINF:-1 ,Buffalo TV
+http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
+#EXTINF:-1 ,Telenord Canal 8
+http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8
+#EXTINF:-1 ,Newsmax TV
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 ,Navarra TV
+http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8
+#EXTINF:-1 ,Daytona Beach TV
+http://oflash.dfw.swagit.com/live/daytonabeachfl/smil:std-4x3-1-a/chucklist.m3u8
+#EXTINF:-1 ,RyeTV
+http://oflash.dfw.swagit.com/live/ryeny/smil:std-4x3-1-a/playlist.m3u8
+#EXTINF:-1 ,Garland TV
+http://oflash-alt.dfw.swagit.com/live/garlandtx/smil:hd-16x9-1-a/chunklist.m3u8
+#EXTINF:-1 ,Mobcrush
+https://ott.mobcrush.com/hls/0/ott.m3u8
+#EXTINF:-1 ,Canal 10 Rio Negro
+http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
+#EXTINF:-1 ,Space
+http://pe-ak-lp01a-9c9media.akamaized.net/live/Space/p/hls/00000201/689924a518f2c776/index/2176f3ac/live/stream/h264/v1/3500000/manifest.m3u8
 #EXTINF:-1 ,Red Bull TV (Opt-2)
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1 ,Red Bull TV (Opt-3)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 ,REDBULL TV
 http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
-#EXTINF:-1 group-title="XXX Adultos",RedlightX
-http://live.redtraffic.xyz/russian.m3u8
+#EXTINF:-1 ,CGTV - City of Champaign
+http://reflect-live-champaign.cablecast.tv/live/CELL-296k-234p/CELL-296k-234p.m3u8
+#EXTINF:-1 ,RT Espanol
+https://rt-esp.secure.footprint.net/1102.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,Sky News (Opt-2)
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
+#EXTINF:-1 ,Onda TV 10
+http://ss6.domint.net:2052/otv_str/tv10/chunklist_w1442080980.m3u8
+#EXTINF:-1 ,Campus TV
+http://st2.worldkast.com/8004/8004/chunklist_w1315793139.m3u8
+#EXTINF:-1 ,Telecentro 13
+http://stream.grupotelemicro.com/13.m3u8
 #EXTINF:-1 ,RETRO MUSIC HD
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 #EXTINF:-1 ,Retro Tv
 http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?
-#EXTINF:-1 group-title="MUSICA",RETRO TV
-http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",ROMANA TV
-http://tv.romanatv42.com/hls/live.m3u8
-#EXTINF:-1 ,RT Espanol
-https://rt-esp.secure.footprint.net/1102.m3u8?fluxustv.m3u8
-#EXTINF:-1 ,RyeTV
-http://oflash.dfw.swagit.com/live/ryeny/smil:std-4x3-1-a/playlist.m3u8
-#EXTINF:-1 ,SafeTV4U2
-http://18.191.91.130:1935/live/safetv/playlist.m3u8
-#EXTINF:-1 ,Setanta Sports 1
-https://95-213-224-186.livesports24.online/rusetantaeurasia.m3u8
-#EXTINF:-1 ,Setanta Sports 2
-https://95-213-224-186.livesports24.online/setantaplusru.m3u8
-#EXTINF:-1 ,Setanta Sports UA
-https://95-213-224-186.livesports24.online/setantaukraine.m3u8
-#EXTINF:-1 group-title="XXX Adultos",SEXTATION
-http://live.redtraffic.xyz/teen.m3u8
-#EXTINF:-1 group-title="XXX Adultos",Sextreme
-http://live.redtraffic.xyz/fetish.m3u8
-#EXTINF:-1 ,Sidewalks
-http://30a-tv.com/sidewalks.m3u8
-#EXTINF:-1 group-title="NOTICIAS",Sky NEWS
-http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8
-#EXTINF:-1 ,Sky News (Opt-2)
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
-#EXTINF:-1 ,Space
-http://pe-ak-lp01a-9c9media.akamaized.net/live/Space/p/hls/00000201/689924a518f2c776/index/2176f3ac/live/stream/h264/v1/3500000/manifest.m3u8
-#EXTINF:-1 ,Sunburn TV
-https://vcndstv.teleosmedia.com/stream/dstv/sunburn/seglist_720p.m3u8
-#EXTINF:-1 group-title="DEPORTES",Telecaribe Deportes
-http://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8
-#EXTINF:-1 ,Teleceiba Canal 7 | SD
-http://190.11.224.14:8134/liveevent.m3u8
-#EXTINF:-1 ,Telecentro 13
-http://stream.grupotelemicro.com/13.m3u8
+#EXTINF:-1 ,Glendale 11
+https://stream.swagit.com/live-edge/glendaleaz/smil:std-4x3-1-a/chunklist.m3u8
+#EXTINF:-1 ,Red ADVenir (Bolivia)
+http://streamer1.streamhost.org:1935/salive/GMIredadvenirh/playlist.m3u8
 #EXTINF:-1 ,Telemadrid
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
-#EXTINF:-1 group-title="MUSICA",Telemax
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
-#EXTINF:-1 ,Telenord Canal 8
-http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8
-#EXTINF:-1 group-title="MUSICA",TELERITMO
-http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1 ,3ABN Latino (USA)
+http://uni5rtmp.tulix.tv:1935/bettervida/bettervida/playlist.m3u8
+#EXTINF:-1 ,Gracia TV
+http://v3.tustreaming.cl/graciatv/live1/index.m3u8
+#EXTINF:-1 ,Gracia TV (Chile)
+http://v3.tustreaming.cl:80/graciatv/live1/index.m3u8
+#EXTINF:-1 ,Mundo Mas
+http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
+#EXTINF:-1 ,AKC TV
+https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
+#EXTINF:-1 ,CT-N Live Stream 1
+http://video.ct-n.com/live/web1stream/chunklist_w1992415243_DVR.m3u8
+#EXTINF:-1 ,CT-N Live Stream 2
+http://video.ct-n.com/live/web2stream/chunklist_w1202315245_DVR.m3u8
+#EXTINF:-1 ,CT-N Streaming Media
+http://video.ct-n.com/live/ctnstream/chunklist_w1534354198_DVR.m3u8
+#EXTINF:-1 ,DC Council Channel
+http://video.oct.dc.gov/out/u/15_12.m3u8
+#EXTINF:-1 ,District of Columbia Network
+http://video.oct.dc.gov/out/u/DCN.m3u8
 #EXTINF:-1 ,TeleSafor
 http://video.telesafor.com/hls/video_low.m3u8
 #EXTINF:-1 ,TeleSafor | HD
 http://video.telesafor.com/hls/video_high.m3u8
-#EXTINF:-1 ,Telesur
-http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
-#EXTINF:-1 group-title="NOTICIAS",TeleSUR
-https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/chunklist.m3u8
-#EXTINF:-1 group-title="España",Ten
-http://91.126.141.201:1935/live/smil:ten.smil/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",TEN Honduras
-http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
-#EXTINF:-1 group-title="MUSICA",The 80s Videomix Volume 1
-https://ia801307.us.archive.org/35/items/DJPanduroThe80sVideomixVolume1/DJ%20Panduro%20-%20The%2080%27s%20Videomix%20%28Volume%201%29.mp4
-#EXTINF:-1 group-title="MUSICA",The 90s EurodanceVideomix
-https://ia801305.us.archive.org/30/items/DJPanduroThe90sEurodanceVideomix/DJ%20Panduro%20-%20The%2090%27s%20Eurodance%20Videomix.mp4
-#EXTINF:-1 group-title="Latinos",TL MILENIO
-http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/playlist.m3u8
-#EXTINF:-1 group-title="MEXICO",TMTV
-http://streamingcws20.com:1935/tmtv/videotmtv/chunklist_w1798696550.m3u8
-#EXTINF:-1 group-title="CULTURA",TMZ
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 group-title="España",TV GALICIA
-http://america-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 ,TV Galicia Europa
-http://europa-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",TV PLATA
-http://ss6.domint.net:2104/tvp_str/tvplata/chunklist_w780794720.m3u8
-#EXTINF:-1 ,TV Senado | HD
-http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd
-#EXTINF:-1 group-title="Latinos",TVEPACO VENEZUELA
-http://vcp1.myplaytv.com:1935/tvepaco/tvepaco/chunklist_w2073389661.m3u8
-#EXTINF:-1 ,TVG Xabarin
-http://infantil-crtvg.flumotion.com/chunks.m3u8
-#EXTINF:-1 ,TVN Señal de Pruebas | HD
-http://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
-#EXTINF:-1 group-title="CULTURA",TWiT
-http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",VALLEVISION
-http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8
-#EXTINF:-1 ,Vega Baja TV
-http://185.29.68.24/tvb.m3u8
-#EXTINF:-1 group-title="XXX Adultos",VENUS
-http://live.redtraffic.xyz/interracial.m3u8
-#EXTINF:-1 group-title="DEPORTES",Viasat Sports
-http://b66dc3b9.kartoshkaka.ru/iptv/SXSTT8UD3QSBQH/160/index.m3u8
-#EXTINF:-1 group-title="NOTICIAS",VoA
-http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+#EXTINF:-1 ,Monterrico TV
+http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
+#EXTINF:-1 ,RCG 3 | SD
+http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
+#EXTINF:-1 ,Cheddar Big News
+https://wowzaprod124-i.akamaihd.net/hls/live/505691/261805b7/playlist.m3u8
+#EXTINF:-1 ,Jewelry Television
+http://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8
+#EXTINF:-1 ,360 North
+http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlist.m3u8
+#EXTINF:-1 ,DJING
+http://www.djing.com/tv/ibiza.m3u8
+#EXTINF:-1 group-title="CINE",Panico
+http://170.178.189.66:1935/live/Stream1/.m3u8
+#EXTINF:-1 group-title="CINE",Celestial Movies
+http://210.210.155.35/session/31580704-c313-11e8-86db-c81f66f89318/qwr9ew/s/s33/01.m3u8
+#EXTINF:-1 group-title="CINE",Cinema World
+http://210.210.155.35/session/4c0d1c4a-3034-11e9-94bb-b59a8d9f4b5a/uq2663/h/h04/index2.m3u8
+#EXTINF:-1 group-title="CINE",Cinema World
+http://210.210.155.35/uq2663/h/h04/01.m3u8
+#EXTINF:-1 group-title="CINE",KIX
+http://210.210.155.35/session/b32c7bf2-c313-11e8-9362-c81f66f89318/uq2663/h/h07/02.m3u8
+#EXTINF:-1 group-title="CINE",MY CINEMA
+http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
+#EXTINF:-1 group-title="CINE",K Plus
+http://210.210.155.35:80/session/0c338296-303c-11e9-bdab-b82a72d63267/uq2663/h/h08/index2.m3u8
+#EXTINF:-1 group-title="CINE",BLUE & Extreme
+http://45.126.83.51/session/3e1febe2-3036-11e9-883d-bae1b0227905/dr9445/h/h15/01.m3u8
+#EXTINF:-1 group-title="CINE",HITS
+http://45.126.83.51/session/b13eb8e6-3032-11e9-9e89-bcf9892f75ee/uq2663/h/h37/01.m3u8
+#EXTINF:-1 group-title="CINE",Puñal Tv
+http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
 #EXTINF:-1 group-title="CULTURA",World Fashion
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-#EXTINF:-1 group-title="XXX Adultos",XXXVOD3D-25+18 3D
-http://galleries.3Dcatchyfetish.com/tube/025/trailer.f4v
-#EXTINF:-1 group-title="XXX Adultos",XXXVOD3D-5+18 3D
-http://galleries.3Dcatchyfetish.com/tube/005/trailer.f4v
-#EXTINF:-1 group-title="XXX Adultos",XXXVOD3D-6+18 3D
-http://galleries.3Dcatchyfetish.com/tube/006/trailer.f4v
-#EXTINF:-1 group-title="XXX Adultos",XXXVOD3D-7+18 3D
-http://galleries.3Dcatchyfetish.com/tube/007/trailer.f4v
-#EXTINF:-1 group-title="XXX Adultos",XXXVOD3D-8+18 3D
-http://galleries.3Dcatchyfetish.com/tube/008/trailer.f4v
-#EXTINF:-1 group-title="XXX Adultos",XXXVOD3D-9+18 3D
-http://galleries.3Dcatchyfetish.com/tube/009/trailer.f4v
-#EXTINF:-1 group-title="MUSICA",Yearmix2009
-https://ia601308.us.archive.org/12/items/DJPanduroVideoYearmix2009/DJ%20Panduro%20-%20Video%20Yearmix%202009.mp4
+#EXTINF:-1 group-title="CULTURA",TMZ
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 group-title="CULTURA",Lifedesign
+http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/.m3u8
+#EXTINF:-1 group-title="CULTURA",TWiT
+http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="CULTURA",24 TV CULTURALES
+http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w450881441_b964000_sles.m3u8
+#EXTINF:-1 group-title="DEPORTES",BFM Sport
+http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/master.m3u8
+#EXTINF:-1 group-title="DEPORTES",Pinguino TV
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
+#EXTINF:-1 group-title="DEPORTES",Telecaribe Deportes
+http://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8
+#EXTINF:-1 group-title="España",Historia
+http://184.173.181.2:1935/8062/8062/playlist.m3u8
+#EXTINF:-1 group-title="España",Lancelot TV
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+#EXTINF:-1 group-title="España",COSMO TV
+http://91.126.141.201:1935/live/smil:cosmoHD.smil/playlist.m3u8
+#EXTINF:-1 group-title="España",FDF
+http://91.126.141.201:1935/live/smil:fdf.smil/playlist.m3u8
+#EXTINF:-1 group-title="España",Ten
+http://91.126.141.201:1935/live/smil:ten.smil/playlist.m3u8
+#EXTINF:-1 group-title="España",TV GALICIA
+http://america-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 group-title="España",Movistar CINEDOC&ROLL
+http://panel.procaja.me/live/dash.php?z=997&u=fJ6cjzc09m&s=8431889677&id=3850&t=live&f=ts
+#EXTINF:-1 group-title="España",Movistar Drama
+http://panel.procaja.me/live/dash.php?z=997&u=fJ6cjzc09m&s=8431889677&id=3801&t=live&f=ts
+#EXTINF:-1 group-title="España",Movistar Seriesmania
+http://panel.procaja.me/live/dash.php?z=997&u=fJ6cjzc09m&s=8431889677&id=3809&t=live&f=ts
+#EXTINF:-1 group-title="España",DMAX España
+https://sbshdlu3-lh.akamaihd.net/i/sbshdlive_4@99403/master.m3u8
+#EXTINF:-1 group-title="Latinos",MICROvision 10
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
+#EXTINF:-1 group-title="Latinos",VALLEVISION
+http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8
+#EXTINF:-1 group-title="Latinos",Canal Wow TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:-1 group-title="Latinos",BHTV
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+#EXTINF:-1 group-title="Latinos",HMTV 33
+http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/playlist.m3u8
+#EXTINF:-1 group-title="Latinos",TL MILENIO
+http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/playlist.m3u8
+#EXTINF:-1 group-title="Latinos",CANAL 52 Ticavision (Costa Rica)
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+#EXTINF:-1 group-title="Latinos",Extrema TV(Costa Rica)
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 group-title="Latinos",Multimedios Costa Rica
+http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
+#EXTINF:-1 group-title="Latinos",Canal 9 Multivision
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+#EXTINF:-1 group-title="Latinos",TV PLATA
+http://ss6.domint.net:2104/tvp_str/tvplata/chunklist_w780794720.m3u8
+#EXTINF:-1 group-title="Latinos",TEN Honduras
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
+#EXTINF:-1 group-title="Latinos",MEGAVISION
+http://stream3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
+#EXTINF:-1 group-title="Latinos",ROMANA TV
+http://tv.romanatv42.com/hls/live.m3u8
+#EXTINF:-1 group-title="Latinos",TVEPACO VENEZUELA
+http://vcp1.myplaytv.com:1935/tvepaco/tvepaco/chunklist_w2073389661.m3u8
+#EXTINF:-1 group-title="MEXICO",Canal 4 Monclova
+http://162.241.190.126:1935/live/canal4/playlist.m3u8
+#EXTINF:-1 group-title="MEXICO",Canal 4.1
+https://5ca3e84a76d30.streamlock.net/tv4/smil:tv4.smil/chunklist_w481386766_b13128000_sleng.m3u8
+#EXTINF:-1 group-title="MEXICO",Canal 4.2
+https://5ca3e84a76d30.streamlock.net/tv42/smil:tv42.smil/chunklist_w1657506489_b13128000_sleng.m3u8
+#EXTINF:-1 group-title="MEXICO",Canal 10 Chiapas
+https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/chunklist_w462891777.m3u8
+#EXTINF:-1 group-title="MEXICO",Canal 10 Chetumal
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1 group-title="MEXICO",TMTV
+http://streamingcws20.com:1935/tmtv/videotmtv/chunklist_w1798696550.m3u8
+#EXTINF:-1 group-title="MEXICO",RCG TV2
+http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
+#EXTINF:-1 group-title="MUSICA",La Mega Mundial
+http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
+#EXTINF:-1 group-title="MUSICA",Classic Project 14-2 (Rock edition CD 2)
+https://archive.org/download/TheClassicProject14.2/The%20Classic%20Project%2014.2.mp4
+#EXTINF:-1 group-title="MUSICA",Yearmix2015
+https://ia600505.us.archive.org/5/items/DJPanduroVideoYearmix2015/DJ%20Panduro%20-%20Video%20Yearmix%202015.mp4
 #EXTINF:-1 group-title="MUSICA",Yearmix2010
 https://ia601305.us.archive.org/3/items/DJPanduroVideoYearmix2010/DJ%20Panduro%20-%20Video%20Yearmix%202010.mp4
 #EXTINF:-1 group-title="MUSICA",Yearmix2011
 https://ia601306.us.archive.org/7/items/DJPanduroDJCoolVideoYearmix2011/DJ%20Panduro%20%26%20DJ%20Cool%20-%20Video%20Yearmix%202011%20%28HD%20720%29.mp4
-#EXTINF:-1 group-title="MUSICA",Yearmix2012
-https://ia801305.us.archive.org/21/items/DJPanduroVideoYearmix2012/DJ%20Panduro%20-%20Video%20Yearmix%202012.mp4
-#EXTINF:-1 group-title="MUSICA",Yearmix2013
-https://ia801409.us.archive.org/35/items/DJPanduroVideoYearmix2013/DJ%20Panduro%20-%20Video%20Yearmix%202013.mp4
+#EXTINF:-1 group-title="MUSICA",Yearmix2009
+https://ia601308.us.archive.org/12/items/DJPanduroVideoYearmix2009/DJ%20Panduro%20-%20Video%20Yearmix%202009.mp4
+#EXTINF:-1 group-title="MUSICA",90s)
+https://ia601500.us.archive.org/25/items/TheClassicProject4/The%20Classic%20Project%204.mp4
+#EXTINF:-1 group-title="MUSICA",Bonus Project 6 (Tropical mix 2)
+https://ia601500.us.archive.org/1/items/BonusProject6/Bonus%20Project%206.mp4
+#EXTINF:-1 group-title="MUSICA",Bonus Project 7 (Tropical mix 3)
+https://ia601500.us.archive.org/5/items/BonusProject7/Bonus%20Project%207.mp4
+#EXTINF:-1 group-title="MUSICA",Bonus Project 9 (Pop)
+https://ia601500.us.archive.org/28/items/BonusProject09/Bonus%20Project%2009.mp4
+#EXTINF:-1 group-title="MUSICA",Classic Project 2 (Pop eurodance 90s)
+https://ia601500.us.archive.org/26/items/TheClassicProject2/The%20Classic%20Project%202.mp4
+#EXTINF:-1 group-title="MUSICA",Classic Project 8 (Español)
+https://ia601500.us.archive.org/11/items/TheClassicProject8/The%20Classic%20Project%208.mp4
+#EXTINF:-1 group-title="MUSICA",90s Reloaded 2008)
+https://ia601503.us.archive.org/24/items/TheClassicProject1/The%20Classic%20Project%201.mp4
+#EXTINF:-1 group-title="MUSICA",90s)
+https://ia601503.us.archive.org/0/items/TheClassicProject9/The%20Classic%20Project%209.mp4
+#EXTINF:-1 group-title="MUSICA",Classic Project 13 (Exitos en español)
+https://ia601503.us.archive.org/14/items/TheClassicProject13/The%20Classic%20Project%2013.mp4
+#EXTINF:-1 group-title="MUSICA",Bonus Project 5 (Tropical mix)
+https://ia601504.us.archive.org/18/items/BonusProject5/Bonus%20Project%205.mp4
+#EXTINF:-1 group-title="MUSICA",Bonus Project 11 (Dance remixes 3)
+https://ia601506.us.archive.org/5/items/BonusProject11/Bonus%20Project%2011.mp4
+#EXTINF:-1 group-title="MUSICA",Bonus Project 8 (Dance remixes 2)
+https://ia601506.us.archive.org/1/items/BonusProject8/Bonus%20Project%208.mp4
+#EXTINF:-1 group-title="MUSICA",Classic Project 10 (Soundtrack)
+https://ia601506.us.archive.org/14/items/TheClassicProject10/The%20Classic%20Project%2010.mp4
+#EXTINF:-1 group-title="MUSICA",Classic Project 12 (Onda disco)
+https://ia601507.us.archive.org/11/items/TheClassicProject12/The%20Classic%20Project%2012.mp4
+#EXTINF:-1 group-title="MUSICA",Bonus Project 14 (Salsa Mix)
+https://ia601508.us.archive.org/26/items/BonusProject14/Bonus%20Project%2014.mp4
+#EXTINF:-1 group-title="MUSICA",Classic Project 11 (Rock latino)
+https://ia601508.us.archive.org/21/items/TheClassicProject11/The%20Classic%20Project%2011.mp4
+#EXTINF:-1 group-title="MUSICA",Classic Project 3 (Pop 2000-2004)
+https://ia601508.us.archive.org/32/items/TheClassicProject3/The%20Classic%20Project%203.mp4
+#EXTINF:-1 group-title="MUSICA",Classic Project 14-1 (Rock edition CD 1)
+https://ia601509.us.archive.org/16/items/TheClassicProject14.1/The%20Classic%20Project%2014.1.mp4
+#EXTINF:-1 group-title="MUSICA",Classic Project 6 (Pop 2004-2006)
+https://ia601509.us.archive.org/8/items/TheClassicProject6/The%20Classic%20Project%206.mp4
+#EXTINF:-1 group-title="MUSICA",Classic Project 7 (Reggaeton)
+https://ia601509.us.archive.org/27/items/TheClassicProject7/The%20Classic%20Project%207.mp4
 #EXTINF:-1 group-title="MUSICA",Yearmix2014
 https://ia800501.us.archive.org/34/items/DJPanduroVideoYearmix2014/DJ%20Panduro%20-%20Video%20Yearmix%202014%20%28HD%29.mp4
-#EXTINF:-1 group-title="MUSICA",Yearmix2015
-https://ia600505.us.archive.org/5/items/DJPanduroVideoYearmix2015/DJ%20Panduro%20-%20Video%20Yearmix%202015.mp4
+#EXTINF:-1 group-title="MUSICA",The 90s EurodanceVideomix
+https://ia801305.us.archive.org/30/items/DJPanduroThe90sEurodanceVideomix/DJ%20Panduro%20-%20The%2090%27s%20Eurodance%20Videomix.mp4
+#EXTINF:-1 group-title="MUSICA",Yearmix2012
+https://ia801305.us.archive.org/21/items/DJPanduroVideoYearmix2012/DJ%20Panduro%20-%20Video%20Yearmix%202012.mp4
+#EXTINF:-1 group-title="MUSICA",The 80s Videomix Volume 1
+https://ia801307.us.archive.org/35/items/DJPanduroThe80sVideomixVolume1/DJ%20Panduro%20-%20The%2080%27s%20Videomix%20%28Volume%201%29.mp4
+#EXTINF:-1 group-title="MUSICA",Yearmix2013
+https://ia801409.us.archive.org/35/items/DJPanduroVideoYearmix2013/DJ%20Panduro%20-%20Video%20Yearmix%202013.mp4
+#EXTINF:-1 group-title="MUSICA",Classic Project 5 (Rock Pop 90s)
+https://ia801503.us.archive.org/20/items/TheClassicProject5/The%20Classic%20Project%205.mp4
+#EXTINF:-1 group-title="MUSICA",Bonus Project 3 (Old skool)
+https://ia801507.us.archive.org/7/items/BonusProject3/Bonus%20Project%203.mp4
+#EXTINF:-1 group-title="MUSICA",MusicTop
+http://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
+#EXTINF:-1 group-title="MUSICA",Telemax
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:-1 group-title="MUSICA",m2o TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="MUSICA",TELERITMO
+http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1 group-title="MUSICA",RETRO TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 group-title="MUSICA",PORTAL FOXMIX
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+#EXTINF:-1 group-title="MUSICA",MTV LIVE
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1 group-title="NOTICIAS",Canal 26
+http://200.115.193.177/live/26hd-720/.m3u8
+#EXTINF:-1 group-title="NOTICIAS",Hechos Tv
+http://37.187.7.106/hechostv/live.m3u8
+#EXTINF:-1 group-title="NOTICIAS",ABC NEWS
+https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
+#EXTINF:-1 group-title="NOTICIAS",TeleSUR
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/chunklist.m3u8
+#EXTINF:-1 group-title="NOTICIAS",DW Amerika
+http://dwstream3-lh.akamaihd.net:80/i/dwstream3_live@124409/index_5_av-p.m3u8
+#EXTINF:-1 group-title="NOTICIAS",DW NEWS
+http://dwstream4-lh.akamaihd.net:80/i/dwstream4_live@131329/index_1_av-b.m3u8
+#EXTINF:-1 group-title="NOTICIAS",CNN Turk
+http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+#EXTINF:-1 group-title="NOTICIAS",Sky NEWS
+http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8
+#EXTINF:-1 group-title="NOTICIAS",C-SPAN
+https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8
+#EXTINF:-1 group-title="NOTICIAS",C-SPAN 2
+https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8
+#EXTINF:-1 group-title="NOTICIAS",C-SPAN 3
+https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8
+#EXTINF:-1 group-title="NOTICIAS",France 24
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1 group-title="NOTICIAS",France 24
+http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+#EXTINF:-1 group-title="NOTICIAS",VoA
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+#EXTINF:-1 group-title="XXX Adultos",BRAZZERS
+http://live.redtraffic.xyz/bigtits.m3u8
+#EXTINF:-1 group-title="XXX Adultos",Dusk
+http://live.redtraffic.xyz/milf.m3u8
+#EXTINF:-1 group-title="XXX Adultos",HOT
+http://live.redtraffic.xyz/blowjob.m3u8
+#EXTINF:-1 group-title="XXX Adultos",HustlerXXX
+http://live.redtraffic.xyz/bigdick.m3u8
+#EXTINF:-1 group-title="XXX Adultos",Juice
+http://live.redtraffic.xyz/bigass.m3u8
+#EXTINF:-1 group-title="XXX Adultos",PenthouseX
+http://live.redtraffic.xyz/pornstar.m3u8
+#EXTINF:-1 group-title="XXX Adultos",PlayboyX Tv
+http://live.redtraffic.xyz/latina.m3u8
+#EXTINF:-1 group-title="XXX Adultos",PrivateX
+http://live.redtraffic.xyz/cuckold.m3u8
+#EXTINF:-1 group-title="XXX Adultos",RedlightX
+http://live.redtraffic.xyz/russian.m3u8
+#EXTINF:-1 group-title="XXX Adultos",SEXTATION
+http://live.redtraffic.xyz/teen.m3u8
+#EXTINF:-1 group-title="XXX Adultos",Sextreme
+http://live.redtraffic.xyz/fetish.m3u8
+#EXTINF:-1 group-title="XXX Adultos",VENUS
+http://live.redtraffic.xyz/interracial.m3u8
 #EXTINF:-1 group-title="XXX Adultos",You Porn
 http://live.redtraffic.xyz/pov.m3u8
+#EXTINF:-1 group-title="XXX Adultos",Allison Banks
+http://tube.paperstreetcash.com/12mins/exxxtrasmall/exxxtrasmall_allison_banks_12minute.mp4
+#EXTINF:-1 group-title="XXX Adultos",Chichi Medina
+http://tube.paperstreetcash.com/8mins/exxxtrasmall/exxxtrasmall_chichi_medina_8minutes.mp4
+#EXTINF:-1 group-title="XXX Adultos",Chloe Foster
+http://tube.paperstreetcash.com/8mins/exxxtrasmall/exxxtrasmall_chloe_foster_8minutes.mp4
+#EXTINF:-1 group-title="XXX Adultos",Dakota Skye
+http://tube.paperstreetcash.com/12mins/exxxtrasmall/exxxtrasmall_dakota_skye_12minute.mp4
+#EXTINF:-1 group-title="XXX Adultos",Demida
+http://tube.paperstreetcash.com/8mins/rubateen/rubateen_demida_8minutes.mp4
+#EXTINF:-1 group-title="XXX Adultos",Dusya
+http://tube.paperstreetcash.com/12mins/rubateen/rubateen_dusya_12minute.mp4
